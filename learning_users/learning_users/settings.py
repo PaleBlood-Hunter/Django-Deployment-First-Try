@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-&cpzqb2@+cva7#xh-g%z(u1^3sf%+@t1lb94ck*598v1u!wbb6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ 'palebloodhunter.pythonanywhere.com']
 
 
 # Application definition
